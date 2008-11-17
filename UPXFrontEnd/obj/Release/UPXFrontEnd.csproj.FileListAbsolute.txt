@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\bin\Release\UPXFrontEnd.exe
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\bin\Release\UPXFrontEnd.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Release\UPXFrontEnd.Form1.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Release\UPXFrontEnd.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Release\UPXFrontEnd.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Release\UPXFrontEnd.exe
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Release\UPXFrontEnd.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\bin\Release\UPXFrontEnd.exe.config

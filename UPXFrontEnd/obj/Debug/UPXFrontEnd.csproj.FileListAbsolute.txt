@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\UPXFrontEnd\bin\Debug\UPXFrontEnd.exe
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\UPXFrontEnd\bin\Debug\UPXFrontEnd.pdb
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\UPXFrontEnd\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\UPXFrontEnd\obj\Debug\UPXFrontEnd.Form1.resources
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\UPXFrontEnd\obj\Debug\UPXFrontEnd.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\UPXFrontEnd\obj\Debug\UPXFrontEnd.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\UPXFrontEnd\obj\Debug\UPXFrontEnd.exe
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\UPXFrontEnd\obj\Debug\UPXFrontEnd.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Debug\UPXFrontEnd.exe
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Debug\UPXFrontEnd.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\bin\Debug\UPXFrontEnd.exe
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\bin\Debug\UPXFrontEnd.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Debug\UPXFrontEnd.Form1.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Debug\UPXFrontEnd.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\UPXFrontEnd\UPXFrontEnd\obj\Debug\UPXFrontEnd.csproj.GenerateResource.Cache
