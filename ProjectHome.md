@@ -1,0 +1,1 @@
+UPXFrontEnd is a graphical interface for UPX (Ultimate Packer for eXecutables).
